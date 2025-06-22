@@ -1,0 +1,6 @@
+services:
+  asco-encoding-app:
+    container_name: asco-encoding-app
+    build: .
+    environment:
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
