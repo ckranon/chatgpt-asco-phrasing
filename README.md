@@ -1,7 +1,3 @@
-This is a `README.md` file that instructs a research assistant on how to install Docker, run the provided R program for emotion encoding, and explains its usefulness.
-
------
-
 # Emotion Encoding with OpenAI GPT-4o-mini
 
 This project uses the OpenAI GPT-4o-mini model to encode the emotion of **'disgust' (asco)** from textual data. It processes a CSV file containing text snippets, sends them to the OpenAI API for scoring and reasoning, and then saves the results to a new CSV file.
