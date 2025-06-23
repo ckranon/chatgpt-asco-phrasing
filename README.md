@@ -91,3 +91,17 @@ Run this code snippet to get the final output.
     ```
 -----
 
+```bash
+.
+├── app.R
+├── docker-compose.yml
+├── dockerfile
+├── gptraw.csv
+├── README.md
+└── trials
+    ├── first-output.csv
+    └── second-output.csv
+
+```
+
+Files for rebuild
